@@ -3,7 +3,7 @@
 	"id": "oaklab",
 	"version": "${version}",
 	"name": "Oaklab",
-	"description": "A mod combining the power of tech and nature, made by Ciaran for Oakley",
+	"description": "A mod about combining and utilising the power of nature and technology. Made by Ciaran for Oakley",
 	"authors": [
 		"NeutralExistence"
 	],
@@ -11,7 +11,7 @@
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/oaklab/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -30,7 +30,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.16.14",
-		"minecraft": "~1.21.6",
+		"minecraft": "~1.21",
 		"java": ">=21",
 		"fabric-api": "*"
 	},

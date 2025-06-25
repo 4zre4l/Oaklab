@@ -2,7 +2,6 @@ package net.neutral.oaklab;
 
 import net.fabricmc.api.ModInitializer;
 
-import net.neutral.oaklab.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -12,6 +11,6 @@ public class Oaklab implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		ModItems.registerModItems();
+
 	}
 }
