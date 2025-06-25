@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "oaklab",
+	"version": "${version}",
+	"name": "Oaklab",
+	"description": "A mod combining the power of tech and nature, made by Ciaran for Oakley",
+	"authors": [
+		"NeutralExistence"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/oaklab/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.neutral.oaklab.Oaklab"
+		],
+		"fabric-datagen": [
+			"net.neutral.oaklab.OaklabDataGenerator"
+		],
+		"client": [
+			"net.neutral.oaklab.OaklabClient"
+		]
+	},
+	"mixins": [
+		"oaklab.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.6",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
