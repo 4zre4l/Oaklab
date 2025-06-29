@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "oaklab:block/opal_block"
+    }
+  }
+}
