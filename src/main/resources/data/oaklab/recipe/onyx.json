@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "oaklab:onyx_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "oaklab:onyx"
+  }
+}

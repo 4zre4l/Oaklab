@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "oaklab:opal_block",
+    "oaklab:onyx_block"
+  ]
+}
