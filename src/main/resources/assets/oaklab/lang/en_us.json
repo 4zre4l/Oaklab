@@ -5,5 +5,8 @@
   "block.oaklab.onyx_block": "Block of Onyx",
   "block.oaklab.onyx_ore": "Onyx Ore",
   "block.oaklab.opal_block": "Block of Opal",
-  "block.oaklab.opal_ore": "Opal Ore"
+  "block.oaklab.opal_ore": "Opal Ore",
+
+  "itemgroup.oaklab.oaklab_items": "Oaklab Items",
+  "itemgroup.oaklab.oaklab_blocks": "Oaklab Blocks"
 }
